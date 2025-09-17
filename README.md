@@ -1,4 +1,4 @@
-File Integrity Checker
+#File Integrity Checker
 A command-line Python script designed to monitor a directory for file changes, additions, or deletions. It works by creating a "baseline" snapshot of file hashes and then comparing the current state of the directory against that baseline.
 
 This tool is useful for ensuring that important files have not been altered, corrupted, or tampered with.
